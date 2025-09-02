@@ -9,4 +9,6 @@ I am Darklyn from Egypt. I am a beginner learning Python and exploring ethical h
 <br /><br />
 
 ## My Github stats
-https://github.com/darklyn4/darklyn4/blob/main/assets/python.png
+<div align="center">
+  <img width="100%" src="https://github.com/darklyn4/darklyn4/blob/main/assets/cover.PNG" alt="cover" />
+</div>
