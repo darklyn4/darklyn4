@@ -5,7 +5,7 @@
 </div>
 
 ## About me
-I am Darklyn from Egypt. I am a beginner learning Python and exploring ethical hacking. I am always eager to learn new things and improve my skills.
+I am Darklyn. I am a beginner learning Python and exploring ethical hacking. I am always eager to learn new things and improve my skills.
 <br /><br />
 
 ## Media
