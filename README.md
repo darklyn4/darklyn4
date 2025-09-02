@@ -1,1 +1,1 @@
-![Mokkapps GitHub README header image](https://raw.githubusercontent.com/darklyn4/darklyn4/main/GIF.gif)
+![](https://raw.githubusercontent.com/darklyn4/darklyn4/main/GIF.gif)
